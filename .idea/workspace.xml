@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a425d29d-f2ef-4ce4-8be0-d465874d6d2e" name="Default" comment="" />
+    <list default="true" id="a425d29d-f2ef-4ce4-8be0-d465874d6d2e" name="Default" comment="test">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Starter.java" afterPath="$PROJECT_DIR$/src/Starter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Study.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +71,7 @@
       <file leaf-file-name="Starter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="0.17419355" vertical-offset="0" max-vertical-offset="620">
+            <state line="3" column="39" selection-start="108" selection-end="108" vertical-scroll-proportion="0.08709677" vertical-offset="0" max-vertical-offset="620">
               <folding />
             </state>
           </provider>
@@ -79,6 +83,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -92,7 +99,7 @@
     <option name="width" value="1280" />
     <option name="height" value="752" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -120,8 +127,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,6 +161,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -413,6 +420,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a425d29d-f2ef-4ce4-8be0-d465874d6d2e" name="Default" comment="" />
@@ -423,11 +447,13 @@
       <workItem from="1395075720555" duration="12000" />
       <workItem from="1395139344709" duration="456000" />
       <workItem from="1395140218945" duration="15000" />
+      <workItem from="1395147735831" duration="254000" />
+      <workItem from="1395148015097" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1316000" />
+    <option name="totallyTimeSpent" value="1588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1280" height="752" extended-state="0" />
@@ -484,6 +510,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Starter.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="39" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
           <folding />
         </state>
@@ -512,7 +552,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="0.17419355" vertical-offset="0" max-vertical-offset="620">
+        <state line="3" column="39" selection-start="108" selection-end="108" vertical-scroll-proportion="0.08709677" vertical-offset="0" max-vertical-offset="620">
           <folding />
         </state>
       </provider>
